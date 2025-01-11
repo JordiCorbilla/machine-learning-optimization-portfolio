@@ -41,7 +41,7 @@ This project demonstrates how to optimize a portfolio using a combination of **M
   | GPC    | Genuine Parts Co.               | 16%     | Consumer Discretionary |
   | MSEX   | Middlesex Water Co.             | 5%      | Utilities           |
 
--**Results**:
+- **Results**:
 ![](https://github.com/JordiCorbilla/machine-learning-optimization-portfolio/raw/main/machine_learning_optimization_20250107_214207.png)
 
 ---
