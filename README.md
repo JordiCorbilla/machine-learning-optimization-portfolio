@@ -50,3 +50,7 @@ This project demonstrates how to optimize a portfolio using a combination of **M
 1. Clone the repository:
    ```bash
    git clone https://github.com/JordiCorbilla/machine-learning-optimization-portfolio.git
+
+### Support me
+
+<a href="https://www.buymeacoffee.com/jordicorbilla" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
